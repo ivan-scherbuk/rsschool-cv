@@ -7,7 +7,8 @@ Phone number: +375 (29) 803-96-07
 
 ### ABOUT ME
 
-info
+I'm 19 years old and I really like programming. I prefer moving step by step and setting small goals rather than have only one global aim.
+I want to get new knowledge every day and I am able to do it quickly. Moreover, I always work responsibly and I do whatever it takes to complete the task.
 
 ### SKILLS
 
