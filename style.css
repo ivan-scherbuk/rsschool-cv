@@ -165,8 +165,12 @@ body {
   top: 14px;
   left: -21px;
   width: 2px;
-  height: 180px;
+  height: 115px;
   background: #0bb5f4;
+}
+
+.resume .resume_right .resume_education ul li:first-child::after {
+  height: 180px;
 }
 
 .resume .resume_right .resume_english ul li:after {
