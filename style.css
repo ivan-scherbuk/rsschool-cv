@@ -138,6 +138,11 @@ body {
   margin-bottom: 20px;
 }
 
+.certificate {
+  text-decoration: none;
+  color: #696969;
+}
+
 .resume .resume_right ul li:last-child .info {
   margin-bottom: 0;
 }
